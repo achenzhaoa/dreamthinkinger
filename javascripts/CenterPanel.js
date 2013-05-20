@@ -19,7 +19,8 @@
 				width:130,
 				height:130,
 				border:true,
-				frame:true
+				frame:true,
+				draggable:true
 			},
 			items:[{
 				title:'test1'
